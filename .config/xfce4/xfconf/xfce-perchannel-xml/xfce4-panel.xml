@@ -118,5 +118,10 @@
     <property name="plugin-22" type="string" value="directorymenu">
       <property name="base-directory" type="string" value="/home/harlan"/>
     </property>
+    <property name="clipman" type="empty">
+      <property name="tweaks" type="empty">
+        <property name="never-confirm-history-clear" type="bool" value="false"/>
+      </property>
+    </property>
   </property>
 </channel>
