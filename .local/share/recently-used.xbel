@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///mnt/d/Games/srw%20tools/Audacity/%5BONTIVA.COM%5D%20SRW@3_%20Beyond%20the%20Time%20(Ext.)-HQ.wav" added="2021-09-29T06:34:03.256318Z" modified="2021-09-29T06:34:03.256322Z" visited="2021-09-29T06:34:03.256319Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="strawberry" exec="&apos;strawberry %u&apos;" modified="2021-09-29T06:34:03.256320Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harlan/.xsession" added="2021-09-29T13:24:53.844658Z" modified="2021-09-29T13:24:55.469181Z" visited="2021-09-29T13:24:53.844659Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-09-29T13:24:55.469180Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
