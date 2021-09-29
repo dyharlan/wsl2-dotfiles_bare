@@ -116,3 +116,7 @@ fi
 #export PULSE_SERVER=tcp:$(grep nameserver /etc/resolv.conf | awk '{print $2}');
 #export PULSE_COOKIE=/mnt/c/Users/dyhar/.pulse-cookie
 #export LIBGL_ALWAYS_INDIRECT=1
+
+#Arch specific aliases
+alias pro="sudo pacman -Qtdq | sudo pacman -Rns -"
+alias parcc="sudo paru -Scc "
