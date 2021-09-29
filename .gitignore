@@ -1,11 +1,11 @@
 /*
+!/README.md
 !/.local
 !/.config
 !/.conky
 !/.fltk
 !/.local/share
 !/.themes
-!/.bash_history
 !/.bash_profile
 !/.bashrc
 !/.xinitrc
