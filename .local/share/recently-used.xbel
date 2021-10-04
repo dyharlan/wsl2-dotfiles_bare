@@ -27,4 +27,18 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/harlan/.config/conky/conky.conf" added="2021-09-30T05:52:21.550612Z" modified="2021-10-04T05:48:24.346136Z" visited="2021-09-30T05:52:21.550612Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 38:29;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-10-04T05:48:24.346135Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
