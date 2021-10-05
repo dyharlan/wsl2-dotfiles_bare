@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=pavucontrol.desktop,xfce4-terminal.desktop,xfce-ui-settings.desktop,conky.desktop,xfce4-dict.desktop,lstopo.desktop
+recent=xfce4-terminal.desktop,xfce4-taskmanager.desktop,ristretto.desktop,lstopo.desktop,firefox.desktop,pavucontrol.desktop,xfce-ui-settings.desktop,conky.desktop,xfce4-dict.desktop
 button-title=\ Apps
 button-icon=windows
 button-single-row=false
@@ -22,8 +22,8 @@ position-commands-alternate=false
 position-categories-alternate=true
 stay-on-focus-out=false
 confirm-session-command=true
-menu-width=450
-menu-height=500
+menu-width=562
+menu-height=588
 menu-opacity=100
 command-settings=xfce4-settings-manager
 show-command-settings=true

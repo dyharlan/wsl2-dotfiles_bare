@@ -1,5 +1,2 @@
-[20211004-13:42:13] [INFO ] Socket 13: AF_UNIX connection received
-[20211004-13:42:14] [INFO ] sound_process_training: round trip time 101
-[20211004-13:47:53] [INFO ] Socket 18: AF_UNIX connection received
-[20211004-13:47:53] [INFO ] audin_process_version: version 1
-[20211004-13:47:53] [INFO ] audin_process_open_reply: result 0x00000000
+[20211005-11:46:31] [INFO ] Socket 13: AF_UNIX connection received
+[20211005-11:46:32] [INFO ] sound_process_training: round trip time 101
