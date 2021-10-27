@@ -1,5 +1,6 @@
 /*
 /.config/pulse/*
+/.config/discord/*
 !/README.md
 !/.bash_aliases
 !/.local
