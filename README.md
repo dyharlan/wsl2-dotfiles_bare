@@ -1,5 +1,5 @@
-# wsl2-dotfiles
-Dotfiles for my home configuration under WSL2
+# wsl2-dotfiles_bare
+Dotfiles for my home configuration under WSL2. This only contains no desktop configs.
 
 Steps in setting up this repo in a new machine:
 1. Install git
@@ -16,9 +16,9 @@ Steps in setting up this repo in a new machine:
 5. init home directory:
 	> git init
 6. add dotfile repo:
-	> git remote add mainrepo 'https://github.com/dyharlan/wsl2-dotfiles.git'
+	> git remote add wsl2-dotfiles_bare 'https://github.com/dyharlan/wsl2-dotfiles_bare.git'
 7. pull changes from remote:
-	> git pull mainrepo main
+	> git pull wsl2-dotfiles_bare main
 
 In pushing files:
 1. > git add -all
