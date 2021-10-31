@@ -1,3 +1,0 @@
-[20211027-08:39:46] [INFO ] Socket 13: AF_UNIX connection received
-[20211027-08:39:49] [INFO ] sound_process_training: round trip time 100
-[20211027-08:40:08] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
