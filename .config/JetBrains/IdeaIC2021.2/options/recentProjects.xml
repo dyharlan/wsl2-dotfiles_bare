@@ -1,0 +1,57 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/HelloWorld">
+          <value>
+            <RecentProjectMetaInfo frameTitle="HelloWorld" projectWorkspaceId="20EQxzbTeGMGG4fR2P4FN8cxp2d">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-212.5457.46" />
+              <option name="buildTimestamp" value="1635008524562" />
+              <frame x="0" y="0" width="1920" height="1080" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1635607624637" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/TestingGround">
+          <value>
+            <RecentProjectMetaInfo frameTitle="TestingGround – Main.java" projectWorkspaceId="20ERrKM2HQqbhImEIZhUAJFztDC">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-212.5457.46" />
+              <option name="buildTimestamp" value="1635008526108" />
+              <frame x="0" y="0" width="1984" height="1144" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1635607957655" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/xyzPlotter">
+          <value>
+            <RecentProjectMetaInfo frameTitle="xyzPlotter – XyzPlotter.java" projectWorkspaceId="20FzBYD6HjbndB4zU7j3KI5BOFB">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-212.5457.46" />
+              <option name="buildTimestamp" value="1635008561307" />
+              <frame x="0" y="0" width="1984" height="1144" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1635654988208" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Pattern">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Pattern – main.java" opened="true" projectWorkspaceId="20FzbVHsHqZxvIIMRKZ2N8z0xP8">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-212.5457.46" />
+              <option name="buildTimestamp" value="1635008561307" />
+              <frame x="0" y="0" width="1920" height="1080" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1635655194838" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>
