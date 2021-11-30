@@ -18,7 +18,9 @@ Steps in setting up this repo in a new machine:
 6. add dotfile repo:
 	> git remote add wsl2-dotfiles_bare 'https://github.com/dyharlan/wsl2-dotfiles_bare.git'
 7. pull changes from remote:
-	> git pull wsl2-dotfiles_bare main
+	> git branch -m main
+	> git fetch  wsl2-dotfiles_bare main
+	> git reset --hard wsl2-dotfiles_bare/main
 
 In pushing files:
 1. > git add -all
