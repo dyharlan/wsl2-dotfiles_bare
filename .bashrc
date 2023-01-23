@@ -111,10 +111,11 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-
-export _JAVA_OPTIONS="-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true"
 #export DISPLAY=$(awk '/nameserver / {print $2; exit}' /etc/resolv.conf 2>/dev/null):0
 #export PULSE_SERVER=tcp:$(grep nameserver /etc/resolv.conf | awk '{print $2}');
 #export PULSE_COOKIE=/mnt/c/Users/dyhar/.pulse-cookie
 #export LIBGL_ALWAYS_INDIRECT=1
 
+#export _JAVA_OPTIONS=$WSL_JAVA_OPTIONS
+#export QT_QPA_PLATFORMTHEME=$WSL_QT_QPA_PLATFORMTHEME
+#export MOZ_ENABLE_WAYLAND=1
